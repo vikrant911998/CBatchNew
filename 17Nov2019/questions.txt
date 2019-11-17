@@ -1,0 +1,3 @@
+1.WAP to count the digit in a number recursively.
+2.WAP to find the length of the string recursively.
+3.WAP to find the  count zeroes in a number recursively.
