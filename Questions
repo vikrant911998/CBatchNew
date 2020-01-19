@@ -1,0 +1,5 @@
+1.Given a doubly linked list, rotate the linked list counter-clockwise by P nodes.
+Here P is a given positive integer and is smaller than the count of nodes(N) in a linked list.
+
+2.Given a struct array of type Height, having two elements feet and inches. Find the maximum height, 
+where height is calculated sum of feet and inches after converting feet into inches.
